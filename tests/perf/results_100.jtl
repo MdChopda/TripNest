@@ -1,0 +1,301 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763973710843,58,Login,200,OK,Users 1-1,text,true,,448,254,2,2,http://host.docker.internal:3001/api/auth/login,55,0,47
+1763973710867,33,Login,200,OK,Users 1-2,text,true,,448,254,2,2,http://host.docker.internal:3001/api/auth/login,30,0,22
+1763973710931,1,Search Properties,200,OK,Users 1-2,text,true,,490,154,2,2,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973710931,2,Search Properties,200,OK,Users 1-1,text,true,,490,154,2,2,http://host.docker.internal:3001/api/search?city=San+Jose,2,0,0
+1763973710933,0,Create Booking,200,OK,Users 1-2,text,true,,385,317,2,2,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973710934,0,Create Booking,200,OK,Users 1-1,text,true,,385,317,2,2,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973710966,1,Login,200,OK,Users 1-3,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973710968,1,Search Properties,200,OK,Users 1-3,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973710969,1,Create Booking,200,OK,Users 1-3,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711067,1,Login,200,OK,Users 1-4,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973711069,1,Search Properties,200,OK,Users 1-4,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973711070,1,Create Booking,200,OK,Users 1-4,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711167,2,Login,200,OK,Users 1-5,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,2,0,0
+1763973711169,1,Search Properties,200,OK,Users 1-5,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973711170,1,Create Booking,200,OK,Users 1-5,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711267,1,Login,200,OK,Users 1-6,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973711268,1,Search Properties,200,OK,Users 1-6,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973711269,1,Create Booking,200,OK,Users 1-6,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711366,1,Login,200,OK,Users 1-7,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973711368,0,Search Properties,200,OK,Users 1-7,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711368,1,Create Booking,200,OK,Users 1-7,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711466,1,Login,200,OK,Users 1-8,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973711468,0,Search Properties,200,OK,Users 1-8,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711469,0,Create Booking,200,OK,Users 1-8,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973711566,1,Login,200,OK,Users 1-9,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973711567,1,Search Properties,200,OK,Users 1-9,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973711568,1,Create Booking,200,OK,Users 1-9,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711666,1,Login,200,OK,Users 1-10,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973711668,0,Search Properties,200,OK,Users 1-10,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711668,1,Create Booking,200,OK,Users 1-10,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711766,1,Login,200,OK,Users 1-11,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973711768,0,Search Properties,200,OK,Users 1-11,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711768,0,Create Booking,200,OK,Users 1-11,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973711866,0,Login,200,OK,Users 1-12,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,0,0,0
+1763973711867,0,Search Properties,200,OK,Users 1-12,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711867,1,Create Booking,200,OK,Users 1-12,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973711966,1,Login,200,OK,Users 1-13,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973711967,1,Search Properties,200,OK,Users 1-13,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973711968,0,Create Booking,200,OK,Users 1-13,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712067,1,Login,200,OK,Users 1-14,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712068,1,Search Properties,200,OK,Users 1-14,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973712069,0,Create Booking,200,OK,Users 1-14,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712167,1,Login,200,OK,Users 1-15,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712168,0,Search Properties,200,OK,Users 1-15,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712169,0,Create Booking,200,OK,Users 1-15,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712266,1,Login,200,OK,Users 1-16,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712267,1,Search Properties,200,OK,Users 1-16,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712268,0,Create Booking,200,OK,Users 1-16,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712365,1,Login,200,OK,Users 1-17,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712366,1,Search Properties,200,OK,Users 1-17,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973712367,0,Create Booking,200,OK,Users 1-17,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712466,1,Login,200,OK,Users 1-18,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973712468,0,Search Properties,200,OK,Users 1-18,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712468,0,Create Booking,200,OK,Users 1-18,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712565,1,Login,200,OK,Users 1-19,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973712567,0,Search Properties,200,OK,Users 1-19,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712567,1,Create Booking,200,OK,Users 1-19,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973712666,1,Login,200,OK,Users 1-20,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712667,0,Search Properties,200,OK,Users 1-20,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712668,0,Create Booking,200,OK,Users 1-20,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712766,1,Login,200,OK,Users 1-21,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712767,1,Search Properties,200,OK,Users 1-21,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973712768,0,Create Booking,200,OK,Users 1-21,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712866,2,Login,200,OK,Users 1-22,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,2,0,1
+1763973712868,1,Search Properties,200,OK,Users 1-22,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973712869,0,Create Booking,200,OK,Users 1-22,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973712966,1,Login,200,OK,Users 1-23,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973712967,0,Search Properties,200,OK,Users 1-23,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973712967,1,Create Booking,200,OK,Users 1-23,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973713065,1,Login,200,OK,Users 1-24,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713066,0,Search Properties,200,OK,Users 1-24,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713067,0,Create Booking,200,OK,Users 1-24,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713166,1,Login,200,OK,Users 1-25,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973713167,1,Search Properties,200,OK,Users 1-25,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973713168,0,Create Booking,200,OK,Users 1-25,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713265,1,Login,200,OK,Users 1-26,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973713267,0,Search Properties,200,OK,Users 1-26,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713267,0,Create Booking,200,OK,Users 1-26,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713366,1,Login,200,OK,Users 1-27,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713367,0,Search Properties,200,OK,Users 1-27,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713367,1,Create Booking,200,OK,Users 1-27,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973713465,1,Login,200,OK,Users 1-28,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713467,0,Search Properties,200,OK,Users 1-28,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713467,0,Create Booking,200,OK,Users 1-28,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713566,1,Login,200,OK,Users 1-29,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973713568,0,Search Properties,200,OK,Users 1-29,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713568,1,Create Booking,200,OK,Users 1-29,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713666,1,Login,200,OK,Users 1-30,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713667,0,Search Properties,200,OK,Users 1-30,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713668,0,Create Booking,200,OK,Users 1-30,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713766,1,Login,200,OK,Users 1-31,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713767,1,Search Properties,200,OK,Users 1-31,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973713768,0,Create Booking,200,OK,Users 1-31,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713865,1,Login,200,OK,Users 1-32,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973713866,1,Search Properties,200,OK,Users 1-32,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973713867,0,Create Booking,200,OK,Users 1-32,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973713966,1,Login,200,OK,Users 1-33,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973713968,0,Search Properties,200,OK,Users 1-33,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973713968,1,Create Booking,200,OK,Users 1-33,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973714065,2,Login,200,OK,Users 1-34,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973714067,0,Search Properties,200,OK,Users 1-34,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714067,1,Create Booking,200,OK,Users 1-34,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973714166,1,Login,200,OK,Users 1-35,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973714168,0,Search Properties,200,OK,Users 1-35,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714168,1,Create Booking,200,OK,Users 1-35,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973714267,1,Login,200,OK,Users 1-36,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973714268,0,Search Properties,200,OK,Users 1-36,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714268,1,Create Booking,200,OK,Users 1-36,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973714366,1,Login,200,OK,Users 1-37,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973714367,1,Search Properties,200,OK,Users 1-37,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973714368,0,Create Booking,200,OK,Users 1-37,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973714466,1,Login,200,OK,Users 1-38,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973714467,0,Search Properties,200,OK,Users 1-38,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714468,0,Create Booking,200,OK,Users 1-38,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973714565,1,Login,200,OK,Users 1-39,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973714566,1,Search Properties,200,OK,Users 1-39,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973714567,0,Create Booking,200,OK,Users 1-39,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973714666,1,Login,200,OK,Users 1-40,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973714667,1,Search Properties,200,OK,Users 1-40,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973714668,0,Create Booking,200,OK,Users 1-40,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973714766,1,Login,200,OK,Users 1-41,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973714768,0,Search Properties,200,OK,Users 1-41,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714768,1,Create Booking,200,OK,Users 1-41,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973714865,1,Login,200,OK,Users 1-42,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973714867,0,Search Properties,200,OK,Users 1-42,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714867,0,Create Booking,200,OK,Users 1-42,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973714965,1,Login,200,OK,Users 1-43,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973714967,0,Search Properties,200,OK,Users 1-43,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973714968,0,Create Booking,200,OK,Users 1-43,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715066,1,Login,200,OK,Users 1-44,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973715068,0,Search Properties,200,OK,Users 1-44,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715068,0,Create Booking,200,OK,Users 1-44,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715166,1,Login,200,OK,Users 1-45,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973715167,1,Search Properties,200,OK,Users 1-45,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973715168,0,Create Booking,200,OK,Users 1-45,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715266,1,Login,200,OK,Users 1-46,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973715267,0,Search Properties,200,OK,Users 1-46,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715267,1,Create Booking,200,OK,Users 1-46,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973715366,1,Login,200,OK,Users 1-47,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973715367,0,Search Properties,200,OK,Users 1-47,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715367,1,Create Booking,200,OK,Users 1-47,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973715465,1,Login,200,OK,Users 1-48,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973715466,1,Search Properties,200,OK,Users 1-48,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973715467,0,Create Booking,200,OK,Users 1-48,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715566,1,Login,200,OK,Users 1-49,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973715568,0,Search Properties,200,OK,Users 1-49,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715568,0,Create Booking,200,OK,Users 1-49,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715665,1,Login,200,OK,Users 1-50,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973715667,0,Search Properties,200,OK,Users 1-50,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715667,1,Create Booking,200,OK,Users 1-50,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973715766,1,Login,200,OK,Users 1-51,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973715767,0,Search Properties,200,OK,Users 1-51,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973715767,1,Create Booking,200,OK,Users 1-51,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973715865,1,Login,200,OK,Users 1-52,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973715866,1,Search Properties,200,OK,Users 1-52,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973715867,0,Create Booking,200,OK,Users 1-52,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973715966,1,Login,200,OK,Users 1-53,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973715967,1,Search Properties,200,OK,Users 1-53,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973715968,0,Create Booking,200,OK,Users 1-53,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716067,1,Login,200,OK,Users 1-54,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716068,0,Search Properties,200,OK,Users 1-54,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716068,1,Create Booking,200,OK,Users 1-54,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973716166,1,Login,200,OK,Users 1-55,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716167,0,Search Properties,200,OK,Users 1-55,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716167,1,Create Booking,200,OK,Users 1-55,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973716265,1,Login,200,OK,Users 1-56,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716266,1,Search Properties,200,OK,Users 1-56,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973716267,0,Create Booking,200,OK,Users 1-56,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716366,1,Login,200,OK,Users 1-57,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973716367,1,Search Properties,200,OK,Users 1-57,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973716368,0,Create Booking,200,OK,Users 1-57,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716467,1,Login,200,OK,Users 1-58,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716468,0,Search Properties,200,OK,Users 1-58,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716468,1,Create Booking,200,OK,Users 1-58,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973716566,1,Login,200,OK,Users 1-59,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716567,0,Search Properties,200,OK,Users 1-59,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716567,1,Create Booking,200,OK,Users 1-59,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973716665,1,Login,200,OK,Users 1-60,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973716666,1,Search Properties,200,OK,Users 1-60,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973716667,0,Create Booking,200,OK,Users 1-60,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716766,1,Login,200,OK,Users 1-61,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973716767,1,Search Properties,200,OK,Users 1-61,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973716768,0,Create Booking,200,OK,Users 1-61,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716866,1,Login,200,OK,Users 1-62,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973716868,0,Search Properties,200,OK,Users 1-62,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716868,0,Create Booking,200,OK,Users 1-62,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973716966,1,Login,200,OK,Users 1-63,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973716967,0,Search Properties,200,OK,Users 1-63,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973716967,1,Create Booking,200,OK,Users 1-63,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973717065,1,Login,200,OK,Users 1-64,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973717067,0,Search Properties,200,OK,Users 1-64,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717067,0,Create Booking,200,OK,Users 1-64,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717165,1,Login,200,OK,Users 1-65,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973717166,1,Search Properties,200,OK,Users 1-65,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973717167,0,Create Booking,200,OK,Users 1-65,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717266,1,Login,200,OK,Users 1-66,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973717268,0,Search Properties,200,OK,Users 1-66,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717268,0,Create Booking,200,OK,Users 1-66,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717365,1,Login,200,OK,Users 1-67,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973717367,0,Search Properties,200,OK,Users 1-67,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717367,0,Create Booking,200,OK,Users 1-67,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717466,1,Login,200,OK,Users 1-68,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973717467,0,Search Properties,200,OK,Users 1-68,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717467,1,Create Booking,200,OK,Users 1-68,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973717565,1,Login,200,OK,Users 1-69,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973717566,1,Search Properties,200,OK,Users 1-69,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973717567,0,Create Booking,200,OK,Users 1-69,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717666,1,Login,200,OK,Users 1-70,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973717668,0,Search Properties,200,OK,Users 1-70,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717668,0,Create Booking,200,OK,Users 1-70,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717766,1,Login,200,OK,Users 1-71,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973717768,0,Search Properties,200,OK,Users 1-71,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717768,0,Create Booking,200,OK,Users 1-71,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973717866,1,Login,200,OK,Users 1-72,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973717867,0,Search Properties,200,OK,Users 1-72,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717867,1,Create Booking,200,OK,Users 1-72,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973717965,1,Login,200,OK,Users 1-73,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973717966,0,Search Properties,200,OK,Users 1-73,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973717967,0,Create Booking,200,OK,Users 1-73,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718065,1,Login,200,OK,Users 1-74,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973718066,1,Search Properties,200,OK,Users 1-74,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973718067,0,Create Booking,200,OK,Users 1-74,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718166,1,Login,200,OK,Users 1-75,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973718167,1,Search Properties,200,OK,Users 1-75,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973718168,0,Create Booking,200,OK,Users 1-75,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718268,1,Login,200,OK,Users 1-76,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973718270,0,Search Properties,200,OK,Users 1-76,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973718270,1,Create Booking,200,OK,Users 1-76,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973718365,1,Login,200,OK,Users 1-77,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973718366,0,Search Properties,200,OK,Users 1-77,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973718366,1,Create Booking,200,OK,Users 1-77,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973718465,1,Login,200,OK,Users 1-78,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973718466,1,Search Properties,200,OK,Users 1-78,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973718467,0,Create Booking,200,OK,Users 1-78,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718566,1,Login,200,OK,Users 1-79,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973718567,1,Search Properties,200,OK,Users 1-79,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973718568,0,Create Booking,200,OK,Users 1-79,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718667,0,Login,200,OK,Users 1-80,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,0,0,0
+1763973718668,0,Search Properties,200,OK,Users 1-80,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973718668,0,Create Booking,200,OK,Users 1-80,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718766,1,Login,200,OK,Users 1-81,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973718767,0,Search Properties,200,OK,Users 1-81,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973718768,0,Create Booking,200,OK,Users 1-81,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718865,1,Login,200,OK,Users 1-82,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973718866,1,Search Properties,200,OK,Users 1-82,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973718867,0,Create Booking,200,OK,Users 1-82,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973718965,1,Login,200,OK,Users 1-83,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973718967,0,Search Properties,200,OK,Users 1-83,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973718967,1,Create Booking,200,OK,Users 1-83,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,1,0,0
+1763973719067,1,Login,200,OK,Users 1-84,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719068,1,Search Properties,200,OK,Users 1-84,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973719069,0,Create Booking,200,OK,Users 1-84,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719166,1,Login,200,OK,Users 1-85,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973719168,0,Search Properties,200,OK,Users 1-85,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719168,0,Create Booking,200,OK,Users 1-85,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719267,1,Login,200,OK,Users 1-86,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719268,1,Search Properties,200,OK,Users 1-86,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719269,0,Create Booking,200,OK,Users 1-86,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719367,1,Login,200,OK,Users 1-87,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719368,0,Search Properties,200,OK,Users 1-87,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719369,0,Create Booking,200,OK,Users 1-87,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719465,1,Login,200,OK,Users 1-88,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973719467,0,Search Properties,200,OK,Users 1-88,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719467,1,Create Booking,200,OK,Users 1-88,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719567,1,Login,200,OK,Users 1-89,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719568,0,Search Properties,200,OK,Users 1-89,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719569,0,Create Booking,200,OK,Users 1-89,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719667,1,Login,200,OK,Users 1-90,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719668,1,Search Properties,200,OK,Users 1-90,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973719669,0,Create Booking,200,OK,Users 1-90,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719766,1,Login,200,OK,Users 1-91,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,0,0,0
+1763973719767,0,Search Properties,200,OK,Users 1-91,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719767,0,Create Booking,200,OK,Users 1-91,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719865,1,Login,200,OK,Users 1-92,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973719866,0,Search Properties,200,OK,Users 1-92,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719867,0,Create Booking,200,OK,Users 1-92,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973719965,1,Login,200,OK,Users 1-93,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973719967,0,Search Properties,200,OK,Users 1-93,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973719967,0,Create Booking,200,OK,Users 1-93,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720066,1,Login,200,OK,Users 1-94,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973720069,0,Search Properties,200,OK,Users 1-94,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973720069,0,Create Booking,200,OK,Users 1-94,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720167,1,Login,200,OK,Users 1-95,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973720168,0,Search Properties,200,OK,Users 1-95,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973720169,0,Create Booking,200,OK,Users 1-95,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720265,1,Login,200,OK,Users 1-96,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973720266,1,Search Properties,200,OK,Users 1-96,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973720267,0,Create Booking,200,OK,Users 1-96,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720365,1,Login,200,OK,Users 1-97,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973720366,1,Search Properties,200,OK,Users 1-97,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973720367,0,Create Booking,200,OK,Users 1-97,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720465,1,Login,200,OK,Users 1-98,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,0
+1763973720466,1,Search Properties,200,OK,Users 1-98,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973720467,0,Create Booking,200,OK,Users 1-98,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720566,1,Login,200,OK,Users 1-99,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973720567,1,Search Properties,200,OK,Users 1-99,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,1,0,0
+1763973720568,0,Create Booking,200,OK,Users 1-99,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0
+1763973720666,1,Login,200,OK,Users 1-100,text,true,,448,254,1,1,http://host.docker.internal:3001/api/auth/login,1,0,1
+1763973720668,0,Search Properties,200,OK,Users 1-100,text,true,,490,154,1,1,http://host.docker.internal:3001/api/search?city=San+Jose,0,0,0
+1763973720668,0,Create Booking,200,OK,Users 1-100,text,true,,385,317,1,1,http://host.docker.internal:3001/api/bookings,0,0,0

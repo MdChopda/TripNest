@@ -1,0 +1,15 @@
+node_modules/
+uploads/
+.cursor/
+.vscode/
+*.env
+*.env.*
+*.log
+.DS_Store
+dist/
+coverage/
+__pycache__/
+*.pyc
+*.cookie
+.aider*
+node_modules
